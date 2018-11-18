@@ -12,17 +12,17 @@
         <div class="container max-w-md p-10 bg-white shadow-md rounded mb-4">
             <form name="contact" method="POST" netlify>
                 <label class="form-label">Name</label>
-                <input class="form-control mb-4" required>
+                <input name="name" class="form-control mb-4" required>
 
                 <label class="form-label">Email Address</label>
-                <input class="form-control mb-4" required type="email">
+                <input name="email" class="form-control mb-4" required type="email">
 
                 <label class="form-label">Phone Number</label>
-                <input class="form-control">
+                <input name="phone" class="form-control">
                 <p class="text-grey-dark text-sm mb-4 pt-2">If you'd like someone to give you a call, please included a phone number.</p>
 
                 <label class="form-label">Questions/Comments</label>
-                <textarea class="form-control mb-4" rows="10" required></textarea>
+                <textarea name="comments" class="form-control mb-4" rows="10" required></textarea>
 
                 <button type="submit" class="btn btn-black px-8 py-4">Send</button>
             </form>
