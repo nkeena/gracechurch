@@ -49,22 +49,22 @@
             </div>
             <div class="flex flex-wrap">
                 <div class="lg:w-1/4 sm:w-1/2 w-full px-2 text-center">
-                    <img src="assets/images/Jason.png" class="p-5" />
+                    <img src="/assets/images/jason.png" class="p-5" />
                     <h5 class="text-xl mb-2 text-black">Jason Getman</h5>
                     <p class="text-grey-dark">Operations Pastor</p>
                 </div>
                 <div class="lg:w-1/4 sm:w-1/2 w-full px-2 text-center">
-                    <img src="assets/images/Lauren.png" class="p-5" />
+                    <img src="/assets/images/lauren.png" class="p-5" />
                     <h5 class="text-xl mb-2 text-black">Lauren Getman</h5>
                     <p class="text-grey-dark">Worship Leader</p>
                 </div>
                 <div class="lg:w-1/4 sm:w-1/2 w-full px-2 text-center">
-                    <img src="assets/images/Hanslers.png" class="p-5" />
+                    <img src="/assets/images/hanslers.png" class="p-5" />
                     <h5 class="text-xl mb-2 text-black">Marc & Lindsey Hansler</h5>
                     <p class="text-grey-dark">Youth Leaders</p>
                 </div>
                 <div class="lg:w-1/4 sm:w-1/2 w-full px-2 text-center">
-                    <img src="assets/images/Ninos.png" class="p-5" />
+                    <img src="/assets/images/ninos.png" class="p-5" />
                     <h5 class="text-xl mb-2 text-black">Augie & Crystal Nino</h5>
                     <p class="text-grey-dark">Childrens’ Pastors</p>
                 </div>
