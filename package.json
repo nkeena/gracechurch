@@ -18,5 +18,5 @@
         "tailwindcss": "^0.6.6",
         "webpack-watch": "^0.2.0",
         "yargs": "^4.6.0"
-    },
+    }
 }
