@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import { Carousel, Slide } from 'vue-carousel';
+import { Menu } from 'vue-burger-menu';
 
 Vue.component('collapse', {
   props: ['title'],
@@ -26,7 +27,8 @@ Vue.component('collapse', {
 var app = new Vue({
   el: '#app',
   components: {
-    Carousel,
-    Slide
+    'carousel': Carousel,
+    'slide': Slide,
+    'slide-menu': Menu
   }
 });

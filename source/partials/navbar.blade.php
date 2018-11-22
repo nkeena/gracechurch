@@ -22,8 +22,28 @@
             <a href="/visit" class="btn btn-black text-sm py-2 px-5 ml-4">Plan a Visit</a>
         </nav>
 
-        <a role="button" class="group uppercase no-underline text-black font-bold flex items-center hover:text-blue md:hidden">
-            <span class="hidden sm:block">Menu</span> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="fill-current text-black w-4 h-4 ml-4 group-hover:text-blue"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
-        </a>
+        <div class="group uppercase no-underline text-black font-bold flex items-center hover:text-blue md:hidden">
+            {{-- <span class="hidden sm:block">Menu</span> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="fill-current text-black w-4 h-4 ml-4 group-hover:text-blue"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg> --}}
+            <slide-menu right>
+              <a id="home" href="/">
+                <span>Home</span>
+              </a>
+              <a id="about" href="/about">
+                <span>About</span>
+              </a>
+              <a id="contact" href="/contact">
+                <span>Contact</span>
+              </a>
+              <a id="messages" href="https://subsplash.com/gracesanantonio/messages" target="_blank">
+                <span>Messages</span>
+              </a>
+              <a id="give" href="/give">
+                <span>Give</span>
+              </a>
+              <a id="visit" href="/visit">
+                <span>Visit</span>
+              </a>
+            </slide-menu>
+        </div>
     </div>
 </header>

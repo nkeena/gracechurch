@@ -9,10 +9,12 @@
     <body class="antialiased font-sans">
         <div id="app">
             @include('partials.navbar')
-
+            
+            <main id="page-wrap">
             @yield('body')
 
             @include('partials.footer')
+            </main>
         </div>
         <script src="{{ mix('/js/main.js', 'assets/build') }}"></script>
     </body>
