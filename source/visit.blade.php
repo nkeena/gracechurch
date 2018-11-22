@@ -20,7 +20,7 @@
                 8666 Huebner Road<br />
                 San Antonio, TX 78240
             </address>
-            <a href="#" class="btn btn-blue py-3 px-8">Get Directions</a>
+            <a href="https://www.google.com/maps/place/8666+Huebner+Rd,+San+Antonio,+TX+78240/@29.5206745,-98.6033505,17z/data=!3m1!4b1!4m5!3m4!1s0x865c67659411034d:0xe71b3ef18b4f6f2!8m2!3d29.5206745!4d-98.6011618" target="_blank" class="btn btn-blue py-3 px-8">Get Directions</a>
         </div>
     </section>
 
@@ -53,14 +53,16 @@
                     We believe in teaching through worship, The Word of God, and a variety of fun activities. Your Children will love church and will be challenged to grow in their relationship with God.
                 </p>
             </div>
-            <div class="md:w-1/2 w-full"></div>
+            <div class="md:w-1/2 w-full text-right">
+                <img src="/assets/images/child-coloring.jpg" class="rounded shadow-lg border-white border-8" style="max-width: 400px" />
+            </div>
         </div>
     </section>
 
     <section class="py-24 bg-blue text-white">
         <div class="flex flex-wrap container p-10">
             <div class="md:w-1/2 w-full">
-                <img src="/assets/images/womens-group.jpg" style="max-width: 400px" />
+                <img src="/assets/images/womens-group.jpg" class="rounded shadow-lg border-white border-8" style="max-width: 400px" />
             </div>
             <div class="md:w-1/2 w-full">
                 <h3 class="font-bold mb-4 text-2xl">Sister C.H.A.T.</h3>
@@ -84,12 +86,14 @@
                   <rect width="40" height="5" />
                 </svg>
                 <p class="leading-loose">
-                    content here
+                Men with Purpose is intended to help men discover and live out their purpose. It's important for men to connect with one another and to connect with God in a deeper relationship. Men with Purpose empowers men to be real men and live out their God given destiny. 
+                <br /><br />
+                This men's group meets once a week.
                 </p>
             </div>
             <div class="md:w-1/2 w-full text-right">
                 
-                <img src="/assets/images/men-with-purpose.jpg" style="max-width: 400px" />
+                <img src="/assets/images/men-with-purpose.jpg" class="rounded shadow-lg border-white border-8" style="max-width: 400px" />
 
             </div>
         </div>

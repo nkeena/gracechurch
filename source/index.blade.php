@@ -25,11 +25,38 @@
 
     <section class="flex flex-col justify-center py-24 text-blue">
         <div class="container p-10">
-            <blockquote class="text-center font-bold mb-4 leading-normal text-xl">
-                “Awesome church! Love the worship! So thankful to have a church like this to be a part of!”
-            </blockquote>
+            
+            <carousel :per-page="1" :autoplay="true" :loop="true" :autoplay-timeout="5000">
+              
+                <slide>
+                    <blockquote class="container mx-auto max-w-md text-center font-bold mb-4 leading-normal text-xl">
+                        “Awesome church! Love the worship! So thankful to have a church like this to be a part of!”
+                    </blockquote>
+                    <p class="text-center font-bold text-lg">− Debbie</p>
+                </slide>
 
-            <p class="text-center font-bold text-lg">− Debbie</p>
+                <slide>
+                    <blockquote class="container mx-auto max-w-md text-center font-bold mb-4 leading-normal text-xl">
+                    "This place has been home to us since we moved here almost 6 years ago. We are a loving church, a leading church and most of all we are all about Jesus! I can't imagine life without my grace family!!!"
+                    </blockquote>
+                    <p class="text-center font-bold text-lg">− Lauren</p>
+                </slide>
+                
+                <slide>
+                    <blockquote class="container mx-auto max-w-md text-center font-bold mb-4 leading-normal text-xl">
+                        "It is true that Church should be like a hospital where the hurt and wounded come to be healed (as well as joyfulness in celebrations of breakthroughs!) I'm grateful for our Pastors, who truly walk in love and direct us to God through Biblical Truths."
+                    </blockquote>
+                    <p class="text-center font-bold text-lg">− Sandra</p>
+                </slide>
+
+                <slide>
+                    <blockquote class="container mx-auto max-w-md text-center font-bold mb-4 leading-normal text-xl">
+                        "The leadership here really believes and acts out the word of God. No pressure to give, no guilt trips, no judgement. Practical teachings with modern applications. Love this place. Jesus is here!!!"
+                    </blockquote>
+                    <p class="text-center font-bold text-lg">− Jason</p>
+                </slide>
+            </carousel>
+
         </div>
     </section>
 
@@ -44,7 +71,7 @@
                         <h3 class="text-black mb-4 text-2xl">
                             Community Groups
                         </h3>
-                        <a href="#" class="btn btn-blue text-sm py-3 px-8">Find a Group</a>
+                        <a href="/visit" class="btn btn-blue text-sm py-3 px-8">Find a Group</a>
                     </div>
                 </div>
             </div>
@@ -56,7 +83,7 @@
                         <h3 class="text-black mb-4 text-2xl">
                             Sunday Experience
                         </h3>
-                        <a href="#" class="btn btn-blue text-sm py-3 px-8">Learn More</a>
+                        <a href="/visit" class="btn btn-blue text-sm py-3 px-8">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -68,7 +95,7 @@
                         <h3 class="text-black mb-4 text-2xl">
                             Upcoming Events
                         </h3>
-                        <a href="#" class="btn btn-blue text-sm py-3 px-8">See What's Next</a>
+                        <a href="https://www.facebook.com/pg/GraceSanAntonioChurch/events/" target="_blank" class="btn btn-blue text-sm py-3 px-8">See What's Next</a>
                     </div>
                 </div>
             </div>
@@ -96,7 +123,7 @@
                 <h4 class="text-black text-2xl font-bold">Download the App</h4>
                 <p class="text-grey-dark mb-4">Engage while on the go.</p>
 
-                <a href="#" class="btn btn-black py-3 px-8">Download</a>
+                <a href="https://subsplash.com/gracesanantonio/app" target="_blank" class="btn btn-black py-3 px-8">Download</a>
             </div>
         </div>
     </div>
