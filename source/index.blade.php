@@ -62,7 +62,7 @@
 
 <section class="sm:pb-20" style="background-image: linear-gradient(rgba(255,0,0,0), #f8fafc);">
     <div class="container">
-        <div class="flex flex-wrap lg:justify-between justify-center -mx-4">
+        <div class="flex flex-wrap lg:justify-between justify-center">
             
             <div class="lg:w-1/3 md:w-1/2 sm:mb-4 w-full px-4 flex">
                 <div class="bg-white sm:rounded-lg sm:shadow-lg w-full">
