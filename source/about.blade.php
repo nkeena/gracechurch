@@ -26,7 +26,7 @@
         <div class="flex flex-wrap container p-10">
             <div class="md:w-1/2 w-full">
                 
-                <img src="/assets/images/keenas.png" alt="Robert & Diane Keena" class="p-5" style="max-width: 350px" />
+                <img src="/assets/images/keenas.png" alt="Robert & Diane Keena" class="w-full p-5" style="max-width: 350px" />
                 
             </div>
             <div class="md:w-1/2 w-full">

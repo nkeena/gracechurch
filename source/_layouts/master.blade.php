@@ -10,7 +10,7 @@
         <div id="app">
             @include('partials.navbar')
             
-            <main id="page-wrap">
+            <main id="page-wrap" style="padding-top: 91px;">
             @yield('body')
 
             @include('partials.footer')

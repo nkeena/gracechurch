@@ -37,7 +37,10 @@
     </section>
 
     <section class="py-24 text-black" style="background-image: url('/assets/images/childrens-drawings.jpg'); background-size: cover; background-position: center;">
-        <div class="flex flex-wrap container p-10">
+        <div class="flex flex-wrap flex-row-reverse container p-10">
+            <div class="md:w-1/2 w-full md:text-right text-left">
+                <img src="/assets/images/child-coloring.jpg" class="w-full rounded shadow-lg border-white border-8 mb-4" style="max-width: 400px" />
+            </div>
             <div class="md:w-1/2 w-full">
                 <h3 class="font-bold mb-4 text-2xl">Grace Kids</h3>
                 <svg width="40" height="5" class="fill-current text-blue-lightest mb-4">
@@ -53,16 +56,13 @@
                     We believe in teaching through worship, The Word of God, and a variety of fun activities. Your Children will love church and will be challenged to grow in their relationship with God.
                 </p>
             </div>
-            <div class="md:w-1/2 w-full text-right">
-                <img src="/assets/images/child-coloring.jpg" class="rounded shadow-lg border-white border-8" style="max-width: 400px" />
-            </div>
         </div>
     </section>
 
     <section class="py-24 bg-blue text-white">
         <div class="flex flex-wrap container p-10">
             <div class="md:w-1/2 w-full">
-                <img src="/assets/images/womens-group.jpg" class="rounded shadow-lg border-white border-8" style="max-width: 400px" />
+                <img src="/assets/images/womens-group.jpg" class="w-full rounded shadow-lg border-white border-8 mb-4" style="max-width: 400px" />
             </div>
             <div class="md:w-1/2 w-full">
                 <h3 class="font-bold mb-4 text-2xl">Sister C.H.A.T.</h3>
@@ -79,7 +79,12 @@
     </section>
 
     <section class="py-24 bg-white text-black">
-        <div class="flex flex-wrap container p-10">
+        <div class="flex flex-wrap flex-row-reverse container p-10">
+            <div class="md:w-1/2 w-full md:text-right text-left">
+                
+                <img src="/assets/images/men-with-purpose.jpg" class="w-full rounded shadow-lg border-white border-8 mb-4" style="max-width: 400px" />
+
+            </div>
             <div class="md:w-1/2 w-full">
                 <h3 class="font-bold mb-4 text-2xl">Men with Purpose</h3>
                 <svg width="40" height="5" class="fill-current text-blue-lightest mb-4">
@@ -90,11 +95,6 @@
                 <br /><br />
                 This men's group meets once a week.
                 </p>
-            </div>
-            <div class="md:w-1/2 w-full text-right">
-                
-                <img src="/assets/images/men-with-purpose.jpg" class="rounded shadow-lg border-white border-8" style="max-width: 400px" />
-
             </div>
         </div>
     </section>

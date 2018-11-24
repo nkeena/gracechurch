@@ -1,4 +1,4 @@
-<header class="py-5 px-10 border-b border-grey-light bg-white">
+<header class="py-5 px-10 border-b border-grey-light bg-white fixed w-full z-10">
     <div class="container flex justify-between items-center">
         <a href="/" class="no-underline font-bold text-blue flex items-center text-2xl">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" width="50" height="50" class="mr-2">
@@ -23,7 +23,6 @@
         </nav>
 
         <div class="group uppercase no-underline text-black font-bold flex items-center hover:text-blue md:hidden">
-            {{-- <span class="hidden sm:block">Menu</span> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="fill-current text-black w-4 h-4 ml-4 group-hover:text-blue"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg> --}}
             <slide-menu right>
               <a id="home" href="/">
                 <span>Home</span>
