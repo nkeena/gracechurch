@@ -1,7 +1,7 @@
 <footer class="bg-black text-grey-light">
     <div class="container p-10 md:flex items-center justify-between">
         <div class="mb-4 md:mb-0 text-center md:text-left">
-            Sundays 10am - 8666 Huebner Road, San Antonio, TX 78240
+            Sundays 10am - 5415 Bandera Road suite 501, San Antonio, TX 78238.
             <div class="py-5 text-xs">&copy; {{ date('Y') }} Grace Church San Antonio. All Rights Reserved.</div>
         </div>
         <nav class="text-center md:text-left">

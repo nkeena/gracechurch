@@ -17,10 +17,10 @@
             </svg>
             <h3 class="font-bold mb-2">Location</h3>
             <address class="leading-loose mb-4">
-                8666 Huebner Road<br />
-                San Antonio, TX 78240
+                5415 Bandera Road suite 501<br />
+                San Antonio, TX 78238
             </address>
-            <a href="https://www.google.com/maps/place/8666+Huebner+Rd,+San+Antonio,+TX+78240/@29.5206745,-98.6033505,17z/data=!3m1!4b1!4m5!3m4!1s0x865c67659411034d:0xe71b3ef18b4f6f2!8m2!3d29.5206745!4d-98.6011618" target="_blank" class="btn btn-blue py-3 px-8">Get Directions</a>
+            <a href="https://www.google.com/maps/place/5415+Bandera+Rd+%23501,+Leon+Valley,+TX+78238/@29.4819411,-98.5951175,17z/data=!3m1!4b1!4m5!3m4!1s0x865c5dc74b1073af:0x5a209ed7ac74ed31!8m2!3d29.4819411!4d-98.5929288" target="_blank" class="btn btn-blue py-3 px-8">Get Directions</a>
         </div>
     </section>
 
@@ -98,7 +98,7 @@
             </div>
         </div>
     </section>
-
+    
     <iframe src="https://snazzymaps.com/embed/96996" width="100%" height="500px" style="border:none;"></iframe>
 
 @endsection
