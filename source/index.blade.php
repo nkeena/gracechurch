@@ -107,7 +107,7 @@
 <section class="border-t border-b border-grey-light p-10 bg-white">
     <div class="container lg:flex justify-center items-center text-center">
         <p class="font-bold text-blue text-xl lg:mr-10 lg:text-left mb-4 lg:mb-0">Subscribe and listen to our podcast anytime, anywhere.</p>
-        <a href="#" class="btn py-3 px-8 border border-blue text-blue text-sm hover:bg-blue hover:text-white">
+        <a href="https://itunes.apple.com/us/podcast/grace-church-san-antonio/id1444252322?mt=2" target="_blank" class="btn py-3 px-8 border border-blue text-blue text-sm hover:bg-blue hover:text-white">
             Listen on <span class="lowercase">i</span>Tunes
         </a>
     </div>
