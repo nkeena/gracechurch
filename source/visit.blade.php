@@ -99,6 +99,6 @@
         </div>
     </section>
     
-    <iframe src="https://snazzymaps.com/embed/96996" width="100%" height="500px" style="border:none;"></iframe>
+    {{-- <iframe src="https://snazzymaps.com/embed/96996" width="100%" height="500px" style="border:none;"></iframe> --}}
 
 @endsection
