@@ -16,11 +16,11 @@
             <div class="flex flex-wrap -mx-2">
 
                 <div class="md:w-1/2 w-full px-2 md:mb-0 mb-2">
-                    <a href="https://www.paypal.com/donate/?token=iiDd--ZU4WynNF-wIO5jqfSMkBTzkAkVZUjPkZB1pmmTB5bmWNDLSQFKyt8N_re6liOGkW&country.x=US&locale.x=US" class="block w-full btn btn-black px-8 py-4 text-center" target="_blank">General Donation</a>
+                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XTWRRLPCY78WY&source=url" class="block w-full btn btn-black px-8 py-4 text-center" target="_blank">General Donation</a>
                 </div>
                 
                 <div class="md:w-1/2 w-full px-2">
-                    <a href="https://www.paypal.com/donate/?token=GXwKYHKB4CKa8Xn_IbfkvwhcgelKO4ZM3_zD8MdAOH5XYSsz8jlGIUVJpSfjzQfuQGRvtm&country.x=US&locale.x=US" class="block w-full btn btn-blue px-8 py-4 text-center" target="_blank">Give to Missions</a>
+                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KDWSMMQH9MNC8&source=url" class="block w-full btn btn-blue px-8 py-4 text-center" target="_blank">Give to Missions</a>
                 </div>
 
             </div>
