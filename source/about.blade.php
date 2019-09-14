@@ -39,7 +39,7 @@
         </div>
     </section>
 
-    <section class="flex flex-col justify-center py-24 bg-grey-lighter border border-b-grey">
+    {{-- <section class="flex flex-col justify-center py-24 bg-grey-lighter border border-b-grey">
         <div class="container p-10">
             <div class="text-center">
                 <h2 class="font-bold text-black mb-4 text-3xl">Leadership Team</h2>
@@ -70,7 +70,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <section class="flex flex-col justify-center py-24">
         <div class="container p-10">
