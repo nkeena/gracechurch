@@ -22,7 +22,7 @@
         </div>
     </section>
 
-    <section class="py-24 bg-blue text-white">
+    {{-- <section class="py-24 bg-blue text-white">
         <div class="flex flex-wrap container p-10">
             <div class="md:w-1/2 w-full">
                 
@@ -37,7 +37,7 @@
                 </p>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     {{-- <section class="flex flex-col justify-center py-24 bg-grey-lighter border border-b-grey">
         <div class="container p-10">
