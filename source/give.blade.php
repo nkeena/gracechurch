@@ -31,8 +31,8 @@
             <h2 class="text-2xl text-grey-darker mb-4">Give by Check</h2>
             <p class="text-grey-darker text-sm mb-8">Please make checks payable to <strong class="font-bold">Grace Church San Antonio.</strong></p>
             <address class="text-grey-dark text-center text-xl">
-                Post Office Box 760848<br />
-                San Antonio, TX 78245
+                5415 Bandera Road suite 501<br />
+                San Antonio, TX 78238
             </address>
         </div>
     </section>
